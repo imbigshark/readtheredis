@@ -1,4 +1,4 @@
 readtheredis
 ============
 
-read the redis for professional
+read the redis for professional.
